@@ -1,0 +1,27 @@
+/* PixelForge site: arcade cabinet. Hard pixel shadows, scanlines, no rounding anywhere. */
+:root{--ink:#f4f1ff;--paper:#1a1033;--hot:#ff3d7f;--lime:#b6ff3b;--cyan:#3be8ff;--px:4px}
+*{box-sizing:border-box;border-radius:0!important}
+body.pf{margin:0;background:var(--paper);color:var(--ink);font-family:"PixelForge VF","PixelForge Static",monospace;
+ background-image:repeating-linear-gradient(0deg,rgba(255,255,255,.035) 0 2px,transparent 2px 4px)}
+.hero{padding:6rem 2rem 3rem;text-align:center;border-bottom:var(--px) solid var(--hot)}
+.brand{font-weight:900;font-size:clamp(2.5rem,9vw,7rem);color:var(--lime);text-shadow:var(--px) var(--px) 0 var(--hot),calc(var(--px)*2) calc(var(--px)*2) 0 #000}
+h1{font-weight:300;font-size:2rem;margin:.5rem 0}.lede{max-width:46rem;margin:1rem auto;font-weight:400;line-height:1.5}
+nav{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:2rem}
+nav a{color:var(--paper);background:var(--cyan);padding:.4rem .8rem;text-decoration:none;font-weight:700;box-shadow:var(--px) var(--px) 0 #000}
+nav a:hover{background:var(--lime)}
+main{max-width:72rem;margin:0 auto;padding:2rem}
+.panel{border:var(--px) solid var(--ink);box-shadow:calc(var(--px)*2) calc(var(--px)*2) 0 var(--hot);padding:1.5rem;margin:2.5rem 0;background:#120a26}
+h2{font-weight:800;color:var(--cyan);margin-top:0}h2 small{font-weight:300;color:var(--ink);font-size:.9rem}
+.controls{display:flex;flex-wrap:wrap;gap:.8rem 1.4rem;align-items:center;margin-bottom:1rem}
+.controls label{display:flex;gap:.4rem;align-items:center}
+input,select,button{font:inherit;background:#000;color:var(--lime);border:2px solid var(--lime)}
+.features{border:2px dashed var(--cyan);display:flex;flex-wrap:wrap;gap:1rem;margin-bottom:1rem}
+#stage{min-height:10rem;padding:1rem;outline:var(--px) solid var(--cyan);overflow-wrap:anywhere;font-variant-ligatures:normal}
+.css-out code{font-size:.8rem;color:var(--cyan);word-break:break-all}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(3rem,1fr));gap:2px}
+.g{font:inherit;font-size:1.6rem;padding:.4rem 0;background:#000;color:var(--ink);border:1px solid #3a2a66;cursor:pointer}
+.g:hover{background:var(--hot)}
+.inspect{display:flex;gap:2rem;align-items:center;margin-bottom:1rem}#big{font-size:8rem;color:var(--lime);min-width:10rem;text-align:center;border:var(--px) solid var(--lime)}
+.wrow{display:grid;grid-template-columns:10rem 1fr 1fr;gap:1rem;font-size:1.6rem;padding:.3rem 0;border-bottom:2px solid #2a1b4f}
+.wl{font-size:.9rem;color:var(--cyan)}img{max-width:100%;image-rendering:pixelated;border:var(--px) solid #000}
+pre{background:#000;color:var(--lime);padding:1rem;overflow:auto}footer{text-align:center;padding:2rem;color:var(--cyan)}

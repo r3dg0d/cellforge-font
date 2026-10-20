@@ -1,0 +1,18 @@
+{
+ "title": "PixelForge — an original pixel-grid type family",
+ "brand": "PIXELFORGE",
+ "body_class": "pf",
+ "headline": "Forged on the pixel grid.",
+ "lede": "Nine weights and nine pixel-step italics drawn on a 5×8 master grid. From hairline Thin to heavy Black, every stem stays on the grid and every counter stays open.",
+ "fg": "#f4f1ff", "bg": "#1a1033",
+ "weight_sample": "PRESS START 1UP 64",
+ "presets": ["PRESS START — HIGH SCORE 0049250", "The quick brown fox jumps over the lazy dog.", "LEVEL 3-2: CASTLE OF GLASS", "HP 87/120  MP 14/40  GOLD 9001", "ÀÉÎÕÜ àéîõü çñß ¡¿ «»"],
+ "features": [["kern", "Pixel kerning", true], ["zero", "Slashed zero", false], ["ss01", "Dotted zero", false]],
+ "sections": [
+  ["How it's built", "<p>Each glyph is a hand-drawn pixel map in <code>sources/pixelmaps.txt</code>. The engine turns pixels into rectangles, bridges orthogonal neighbours, and joins diagonal neighbours with an explicit pixel step at light weights. At heavy weights, ink can only grow a fixed amount into a one-pixel counter, so <b>m</b>, <b>e</b>, <b>B</b> and <b>8</b> stay open. Italics shift each row by 16 units: a stepped slant, never a shear, so pixel rows stay horizontal.</p><img src='styles.png' alt='All 18 PixelForge styles'>"],
+  ["Readability", "<p>Square O, notched 0, a tailed l against a serifed I, and a hooked 1. The <code>zero</code> feature gives a slashed zero and <code>ss01</code> a dotted one.</p><img src='confusables.png' alt='Confusable characters sheet'>"],
+  ["In the terminal", "<p>Box drawing, block elements, shades as a pixel dither, and Powerline separators drawn with 50-unit stair steps.</p><img src='terminal.png' alt='Terminal specimen'>"]
+ ],
+ "install_html": "<pre>mkdir -p ~/.local/share/fonts/PixelForge\nunzip PixelForge-v1.000.zip -d ~/.local/share/fonts/PixelForge\nfc-cache -f ~/.local/share/fonts\nfc-list | grep PixelForge</pre><p>Web: <code>&lt;link rel=\"stylesheet\" href=\"css/pixelforge.css\"&gt;</code> then <code>font-family: \"PixelForge\";</code>. Nix: <code>nix build github:r3dg0d/pixelforge-font</code>.</p>",
+ "footer": "PixelForge · OFL-1.1 · built from source with fontTools, ufo2ft and pathops"
+}

@@ -1,0 +1,17 @@
+FONTLOG for PixelForge
+================
+An original pixel-grid type family: 9 weights × upright and pixel-step italic, built procedurally from hand-drawn pixel maps.
+
+Basic Font Information
+----------------------
+Generated procedurally by tools/engine.py from sources/pixelmaps.txt.
+Engine: pixel map → weighted pixel rectangles + bridges + stepped diagonals → pathops union.
+
+ChangeLog
+---------
+2026-10-19 (Vincent Patrick Chambers) PixelForge 1.000
+- Initial version (not yet published).
+
+Acknowledgements
+----------------
+Designer: Vincent Patrick Chambers — https://github.com/r3dg0d

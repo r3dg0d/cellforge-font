@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="376"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="18.0" y="-215.0" type="line"/>
+      <point x="194.0" y="-215.0" type="line"/>
+      <point x="194.0" y="-85.0" type="line"/>
+      <point x="18.0" y="-85.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="118.0" y="-215.0" type="line"/>
+      <point x="294.0" y="-215.0" type="line"/>
+      <point x="294.0" y="-85.0" type="line"/>
+      <point x="118.0" y="-85.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="134.0" y="-115.0" type="line"/>
+      <point x="310.0" y="-115.0" type="line"/>
+      <point x="310.0" y="15.0" type="line"/>
+      <point x="134.0" y="15.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="106.0" y="-215.0" type="line"/>
+      <point x="206.0" y="-215.0" type="line"/>
+      <point x="206.0" y="-85.0" type="line"/>
+      <point x="106.0" y="-85.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="118.0" y="-150.0" type="line"/>
+      <point x="294.0" y="-150.0" type="line"/>
+      <point x="294.0" y="-96" type="line"/>
+      <point x="118.0" y="-96" type="line"/>
+    </contour>
+    <contour>
+      <point x="134.0" y="-104" type="line"/>
+      <point x="310.0" y="-104" type="line"/>
+      <point x="310.0" y="-50.0" type="line"/>
+      <point x="134.0" y="-50.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
