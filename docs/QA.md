@@ -1,6 +1,6 @@
 # QA results (local build 2026-10-19, nixos)
 
-* pytest: 53 passed, 18 sk
+* pytest: 53 passed, 18 skipped (monospace-only tests)
 * Visual regression: 0 changed pixels vs tests/reference (54 sheets: 18 styles × ASCII / Latin-1 / terminal; see visual-regression.md)
 * FontBakery 1.1.0, universal profile. Columns: ERROR | FATAL | FAIL | WARN | SKIP | INFO | PASS
   * ttf: | 0 | 0 | 0 | 54 | 677 | 54 | 1297 | 0 | 
