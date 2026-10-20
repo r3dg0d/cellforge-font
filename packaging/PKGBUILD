@@ -1,5 +1,5 @@
 # Maintainer: Vincent Patrick Chambers <192937334+r3dg0d@users.noreply.github.com>
-# Installs the prebuilt release archive. Fill sha256sums from the release's .sha256 file once published.
+# Installs the prebuilt v1.000 release archive.
 pkgname=ttf-cellforge
 pkgver=1.000
 pkgrel=1
@@ -8,7 +8,7 @@ arch=(any)
 url="https://github.com/r3dg0d/cellforge-font"
 license=(OFL-1.1)
 source=("$url/releases/download/v$pkgver/Cellforge-v$pkgver.zip")
-sha256sums=('SKIP')  # replace with the published checksum before submitting to the AUR
+sha256sums=('4810558581a2d66613e5da305e774a25c7021f55398146ecfc6c9a8b65785603')
 
 package() {
   cd "Cellforge-v$pkgver"

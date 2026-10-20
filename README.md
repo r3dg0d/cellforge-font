@@ -4,7 +4,7 @@ An original pixel-grid type family: 9 weights × upright and pixel-step italic, 
 
 ![All styles](docs/specimens/styles.png)
 
-> **Status:** 1.000, prepared locally. It is not yet published to GitHub, and it has no release or Pages site yet.
+> **Status:** 1.000 released — see Releases. Site: https://r3dg0d.github.io/cellforge-font/
 
 ## Styles and formats
 9 weights × 2 slopes = **18 static styles**, each as **TTF** (TrueType outlines), **OTF** (CFF outlines), and **WOFF2**, for 54 files. There are also **2 variable fonts** (`wght` 100–900: `Cellforge[wght]` and `Cellforge-Italic[wght]`, TTF + WOFF2).
