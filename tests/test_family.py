@@ -1,4 +1,4 @@
-"""PixelForge-specific tests: pixel grid integrity and pixel kerning."""
+"""Cellforge-specific tests: pixel grid integrity and pixel kerning."""
 import os
 import sys
 

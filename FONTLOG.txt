@@ -1,4 +1,4 @@
-FONTLOG for PixelForge
+FONTLOG for Cellforge
 ================
 An original pixel-grid type family: 9 weights × upright and pixel-step italic, built procedurally from hand-drawn pixel maps.
 
@@ -9,7 +9,7 @@ Engine: pixel map → weighted pixel rectangles + bridges + stepped diagonals �
 
 ChangeLog
 ---------
-2026-10-19 (Vincent Patrick Chambers) PixelForge 1.000
+2026-10-19 (Vincent Patrick Chambers) Cellforge 1.000
 - Initial version (not yet published).
 
 Acknowledgements

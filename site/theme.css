@@ -1,7 +1,7 @@
-/* PixelForge site: arcade cabinet. Hard pixel shadows, scanlines, no rounding anywhere. */
+/* Cellforge site: arcade cabinet. Hard pixel shadows, scanlines, no rounding anywhere. */
 :root{--ink:#f4f1ff;--paper:#1a1033;--hot:#ff3d7f;--lime:#b6ff3b;--cyan:#3be8ff;--px:4px}
 *{box-sizing:border-box;border-radius:0!important}
-body.pf{margin:0;background:var(--paper);color:var(--ink);font-family:"PixelForge VF","PixelForge Static",monospace;
+body.pf{margin:0;background:var(--paper);color:var(--ink);font-family:"Cellforge VF","Cellforge Static",monospace;
  background-image:repeating-linear-gradient(0deg,rgba(255,255,255,.035) 0 2px,transparent 2px 4px)}
 .hero{padding:6rem 2rem 3rem;text-align:center;border-bottom:var(--px) solid var(--hot)}
 .brand{font-weight:900;font-size:clamp(2.5rem,9vw,7rem);color:var(--lime);text-shadow:var(--px) var(--px) 0 var(--hot),calc(var(--px)*2) calc(var(--px)*2) 0 #000}

@@ -1,6 +1,6 @@
-# Contributing to PixelForge
+# Contributing to Cellforge
 
-Thanks for helping! PixelForge is generated **procedurally**. Never edit the UFOs or binaries by hand. Edit the source of truth and rebuild:
+Thanks for helping! Cellforge is generated **procedurally**. Never edit the UFOs or binaries by hand. Edit the source of truth and rebuild:
 
 * Glyph designs: `sources/pixelmaps.txt` (pixel map → weighted pixel rectangles + bridges + stepped diagonals → pathops union).
 * Construction rules, weights, metrics: `tools/engine.py`.

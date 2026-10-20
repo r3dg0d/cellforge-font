@@ -1,5 +1,5 @@
-Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/pixelforge-font),
-with Reserved Font Name "PixelForge".
+Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/cellforge-font),
+with Reserved Font Name "Cellforge".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

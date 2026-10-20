@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="ufo/Cellforge-Thin.ufo" familyname="Cellforge" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-ExtraLight.ufo" familyname="Cellforge" stylename="ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-Light.ufo" familyname="Cellforge" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-Regular.ufo" familyname="Cellforge" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-Medium.ufo" familyname="Cellforge" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-SemiBold.ufo" familyname="Cellforge" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-Bold.ufo" familyname="Cellforge" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-ExtraBold.ufo" familyname="Cellforge" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="ufo/Cellforge-Black.ufo" familyname="Cellforge" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Cellforge" stylename="Thin" postscriptfontname="Cellforge-Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="ExtraLight" postscriptfontname="Cellforge-ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="Light" postscriptfontname="Cellforge-Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="Regular" postscriptfontname="Cellforge-Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="Medium" postscriptfontname="Cellforge-Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="SemiBold" postscriptfontname="Cellforge-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="Bold" postscriptfontname="Cellforge-Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="ExtraBold" postscriptfontname="Cellforge-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance familyname="Cellforge" stylename="Black" postscriptfontname="Cellforge-Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

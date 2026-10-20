@@ -1,5 +1,5 @@
 {
-  description = "PixelForge — An original pixel-grid type family (OFL-1.1 fonts, MIT tooling)";
+  description = "Cellforge — An original pixel-grid type family (OFL-1.1 fonts, MIT tooling)";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   outputs = { self, nixpkgs }:
     let
@@ -11,8 +11,8 @@
       ]);
     in {
       packages = forAll (pkgs: rec {
-        pixelforge = pkgs.stdenvNoCC.mkDerivation {
-          pname = "pixelforge-font";
+        cellforge = pkgs.stdenvNoCC.mkDerivation {
+          pname = "cellforge-font";
           version = "1.000";
           src = self;
           nativeBuildInputs = [ (pyEnv pkgs) ];
@@ -24,16 +24,16 @@
             install -Dm644 -t $out/share/fonts/truetype fonts/ttf/*.ttf fonts/variable/*.ttf
             install -Dm644 -t $out/share/fonts/opentype fonts/otf/*.otf
             install -Dm644 -t $out/share/fonts/woff2 fonts/woff2/*.woff2 fonts/variable/*.woff2
-            install -Dm644 OFL.txt $out/share/licenses/pixelforge-font/OFL.txt
+            install -Dm644 OFL.txt $out/share/licenses/cellforge-font/OFL.txt
           '';
           meta = with pkgs.lib; {
             description = "An original pixel-grid type family: 9 weights × upright and pixel-step italic, built procedurally from hand-drawn pixel maps.";
-            homepage = "https://github.com/r3dg0d/pixelforge-font";
+            homepage = "https://github.com/r3dg0d/cellforge-font";
             license = licenses.ofl;
             platforms = platforms.all;
           };
         };
-        default = pixelforge;
+        default = cellforge;
       });
       devShells = forAll (pkgs: {
         default = pkgs.mkShell { packages = [ (pyEnv pkgs) pkgs.nodejs pkgs.harfbuzz pkgs.opentype-sanitizer ]; };

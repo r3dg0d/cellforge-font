@@ -1,4 +1,4 @@
-"""PixelForge procedural engine: pixel maps -> weighted, merged pixel outlines.
+"""Cellforge procedural engine: pixel maps -> weighted, merged pixel outlines.
 
 Construction model (cell = 100 units, one design pixel):
   * every ink pixel becomes a rectangle whose ink width/height depend on weight;
@@ -32,10 +32,10 @@ INK = {100: (22, 22), 200: (40, 38), 300: (64, 60), 400: (100, 100), 500: (116, 
 GAP_X, GAP_Y = 18, 15  # max growth into a protected one-pixel counter
 
 FAMILY = {
-    "name": "PixelForge", "ps": "PixelForge", "version": (1, 0), "vendor": "R3DG",
-    "copyright": "Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/pixelforge-font), with Reserved Font Name \"PixelForge\".",
-    "designer": "Vincent Patrick Chambers", "url": "https://github.com/r3dg0d/pixelforge-font",
-    "description": "PixelForge: an original pixel-grid type family for interfaces, games and terminals.",
+    "name": "Cellforge", "ps": "Cellforge", "version": (1, 0), "vendor": "R3DG",
+    "copyright": "Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/cellforge-font), with Reserved Font Name \"Cellforge\".",
+    "designer": "Vincent Patrick Chambers", "url": "https://github.com/r3dg0d/cellforge-font",
+    "description": "Cellforge: an original pixel-grid type family for interfaces, games and terminals.",
     "upm": 1000, "italic_angle": 9.09,
     "metrics": {"ascender": 800, "descender": -200, "cap": 800, "x": 600,
                 "line_ascent": 1120, "line_descent": 250, "win_ascent": 1150, "win_descent": 300,

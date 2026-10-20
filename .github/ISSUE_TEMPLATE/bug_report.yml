@@ -1,10 +1,10 @@
 name: Bug report
-description: Rendering, metrics, metadata or install problem in PixelForge
+description: Rendering, metrics, metadata or install problem in Cellforge
 labels: [bug]
 body:
   - type: input
     id: version
-    attributes: {label: "PixelForge version", placeholder: "1.000"}
+    attributes: {label: "Cellforge version", placeholder: "1.000"}
     validations: {required: true}
   - type: dropdown
     id: format

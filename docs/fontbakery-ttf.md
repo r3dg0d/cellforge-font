@@ -12,42 +12,8 @@ fontbakery version: 1.1.0
 
 
 
-<details><summary>[4] PixelForge-BlackItalic.ttf</summary>
+<details><summary>[3] Cellforge-BlackItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -134,7 +100,7 @@ fontbakery version: 1.1.0
 * ⚠️ **WARN** <p>The most common width is 676 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 576:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -185,42 +151,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-Black.ttf</summary>
+<details><summary>[3] Cellforge-Black.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -307,7 +239,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 676 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 576:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -358,42 +290,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-BoldItalic.ttf</summary>
+<details><summary>[3] Cellforge-BoldItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -480,7 +378,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 648 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 548:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -531,42 +429,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-Bold.ttf</summary>
+<details><summary>[3] Cellforge-Bold.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -653,7 +517,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 648 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 548:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -704,42 +568,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-ExtraBoldItalic.ttf</summary>
+<details><summary>[3] Cellforge-ExtraBoldItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -826,7 +656,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 662 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 562:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -877,42 +707,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-ExtraBold.ttf</summary>
+<details><summary>[3] Cellforge-ExtraBold.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -999,7 +795,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 662 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 562:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -1050,42 +846,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-ExtraLightItalic.ttf</summary>
+<details><summary>[3] Cellforge-ExtraLightItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -1172,7 +934,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -1223,42 +985,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-ExtraLight.ttf</summary>
+<details><summary>[3] Cellforge-ExtraLight.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -1345,7 +1073,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -1396,42 +1124,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-Italic.ttf</summary>
+<details><summary>[3] Cellforge-Italic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -1518,7 +1212,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -1569,42 +1263,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-LightItalic.ttf</summary>
+<details><summary>[3] Cellforge-LightItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -1691,7 +1351,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -1742,42 +1402,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-Light.ttf</summary>
+<details><summary>[3] Cellforge-Light.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -1864,7 +1490,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -1915,42 +1541,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-MediumItalic.ttf</summary>
+<details><summary>[3] Cellforge-MediumItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -2037,7 +1629,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 616 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 516:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -2088,42 +1680,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-Medium.ttf</summary>
+<details><summary>[3] Cellforge-Medium.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -2210,7 +1768,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 616 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 516:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -2261,42 +1819,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-Regular.ttf</summary>
+<details><summary>[3] Cellforge-Regular.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -2383,7 +1907,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -2434,42 +1958,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-SemiBoldItalic.ttf</summary>
+<details><summary>[3] Cellforge-SemiBoldItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -2556,7 +2046,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 632 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 532:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -2607,42 +2097,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-SemiBold.ttf</summary>
+<details><summary>[3] Cellforge-SemiBold.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -2729,7 +2185,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 632 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 532:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -2780,42 +2236,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-ThinItalic.ttf</summary>
+<details><summary>[3] Cellforge-ThinItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -2902,7 +2324,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -2953,42 +2375,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[4] PixelForge-Thin.ttf</summary>
+<details><summary>[3] Cellforge-Thin.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#contour-count">contour_count</a></summary>
     <div>
@@ -3075,7 +2463,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+greater, less, equal</p>
  [code: width-outliers]
 
 
@@ -3133,8 +2521,8 @@ greater, equal, less</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 18 | 0 | 0 | 54 | 677 | 54 | 1279 | 0 | 
-| 1% | 0% | 0% | 3% | 33% | 3% | 61% | 0% | 
+| 0 | 0 | 0 | 54 | 677 | 54 | 1297 | 0 | 
+| 0% | 0% | 0% | 3% | 33% | 3% | 62% | 0% | 
 
 
 

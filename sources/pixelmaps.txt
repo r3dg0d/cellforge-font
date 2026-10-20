@@ -1,4 +1,4 @@
-# PixelForge pixel maps. Format: "name codepoint top [directive]" then rows (top row first).
+# Cellforge pixel maps. Format: "name codepoint top [directive]" then rows (top row first).
 # top = height (in pixel rows above baseline) of the first row. Cap height = rows 0..7, x-height = rows 0..5.
 # Directives: "blank N" (empty, N columns), "=mirror G", "=rot G" (180° turn), "=vflip G", "=copy G".
 # Codepoint "-" means an unencoded alternate. '#' = ink, '.' = paper.

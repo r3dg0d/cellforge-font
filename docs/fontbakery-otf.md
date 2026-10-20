@@ -12,42 +12,8 @@ fontbakery version: 1.1.0
 
 
 
-<details><summary>[3] PixelForge-BlackItalic.otf</summary>
+<details><summary>[2] Cellforge-BlackItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -73,7 +39,7 @@ fontbakery version: 1.1.0
 * ⚠️ **WARN** <p>The most common width is 676 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 576:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -124,42 +90,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-Black.otf</summary>
+<details><summary>[2] Cellforge-Black.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -185,7 +117,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 676 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 576:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -236,42 +168,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-BoldItalic.otf</summary>
+<details><summary>[2] Cellforge-BoldItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -297,7 +195,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 648 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 548:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -348,42 +246,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-Bold.otf</summary>
+<details><summary>[2] Cellforge-Bold.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -409,7 +273,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 648 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 548:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -460,42 +324,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-ExtraBoldItalic.otf</summary>
+<details><summary>[2] Cellforge-ExtraBoldItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -521,7 +351,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 662 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 562:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -572,42 +402,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-ExtraBold.otf</summary>
+<details><summary>[2] Cellforge-ExtraBold.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -633,7 +429,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 662 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 562:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -684,42 +480,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-ExtraLightItalic.otf</summary>
+<details><summary>[2] Cellforge-ExtraLightItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -745,7 +507,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -796,42 +558,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-ExtraLight.otf</summary>
+<details><summary>[2] Cellforge-ExtraLight.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -857,7 +585,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -908,42 +636,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-Italic.otf</summary>
+<details><summary>[2] Cellforge-Italic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -969,7 +663,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1020,42 +714,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-LightItalic.otf</summary>
+<details><summary>[2] Cellforge-LightItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1081,7 +741,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1132,42 +792,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-Light.otf</summary>
+<details><summary>[2] Cellforge-Light.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1193,7 +819,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1244,42 +870,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-MediumItalic.otf</summary>
+<details><summary>[2] Cellforge-MediumItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1305,7 +897,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 616 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 516:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1356,42 +948,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-Medium.otf</summary>
+<details><summary>[2] Cellforge-Medium.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1417,7 +975,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 616 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 516:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1468,42 +1026,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-Regular.otf</summary>
+<details><summary>[2] Cellforge-Regular.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1529,7 +1053,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1580,42 +1104,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-SemiBoldItalic.otf</summary>
+<details><summary>[2] Cellforge-SemiBoldItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1641,7 +1131,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 632 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 532:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1692,42 +1182,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-SemiBold.otf</summary>
+<details><summary>[2] Cellforge-SemiBold.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1753,7 +1209,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 632 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 532:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1804,42 +1260,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-ThinItalic.otf</summary>
+<details><summary>[2] Cellforge-ThinItalic.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1865,7 +1287,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -1916,42 +1338,8 @@ greater, equal, less</p>
 </div>
 </details>
 
-<details><summary>[3] PixelForge-Thin.otf</summary>
+<details><summary>[2] Cellforge-Thin.otf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
     <div>
@@ -1977,7 +1365,7 @@ greater, equal, less</p>
 * ⚠️ **WARN** <p>The most common width is 600 among a set of 5 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, equal, less</p>
+equal, greater, less</p>
  [code: width-outliers]
 
 
@@ -2035,8 +1423,8 @@ greater, equal, less</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 18 | 0 | 0 | 36 | 821 | 54 | 1153 | 0 | 
-| 1% | 0% | 0% | 2% | 39% | 3% | 55% | 0% | 
+| 0 | 0 | 0 | 36 | 821 | 54 | 1171 | 0 | 
+| 0% | 0% | 0% | 2% | 39% | 3% | 56% | 0% | 
 
 
 
